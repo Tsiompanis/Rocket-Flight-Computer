@@ -10,5 +10,5 @@ Features as of 4/4/2022:
 - LoRa Ai-Thinker-Ra-02
 - Data Logging: 24LC1025 EEPROM & MicroSD card
 - 4x High Current Pyro Channels
-- Programming through UART
+- Programming through UART & SWD
 - Expansion Capabilities for possible Thrust Vectoring 
