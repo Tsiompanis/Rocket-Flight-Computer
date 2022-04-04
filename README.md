@@ -11,3 +11,4 @@ Features as of 4/4/2022:
 - Data Logging: 24LC1025 EEPROM & MicroSD card
 - 4x High Current Pyro Channels
 - Programming through UART
+- Expansion Capabilities for possible Thrust Vectoring 
