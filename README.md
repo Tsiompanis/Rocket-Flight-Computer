@@ -1,6 +1,8 @@
 # Rocket Flight Computer Board
-This is an all purpose avionics board for High Powered Rockets designed around an STM32F4 MPU.
+<h3>This is an all purpose avionics board for High Powered Rockets designed around an STM32F4 MPU.</h3>
 
+
+<br>
 
 Features as of 4/4/2022:
 - MPU: STMicroelectronics STM32F412RET6
