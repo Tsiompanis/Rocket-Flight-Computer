@@ -12,3 +12,7 @@ Features as of 4/4/2022:
 - 4x High Current Pyro Channels
 - Programming through UART & SWD
 - Expansion Capabilities for possible Thrust Vectoring 
+- Programming with STM32duino
+
+---
+![Block Diagram](https://raw.githubusercontent.com/Tsiompanis/Rocket-Flight-Computer/0bb9ca228c185537a7f4a4a448e8248d05b98389/Block%20Diagram.png?token=GHSAT0AAAAAABS44GIO7HJLRQ33ZX6YMP6IYS5QCBQ)
