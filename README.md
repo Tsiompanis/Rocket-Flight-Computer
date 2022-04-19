@@ -17,4 +17,6 @@ Features as of 4/4/2022:
 - Programming with STM32duino
 
 ---
-![Block Diagram](https://github.com/Tsiompanis/Rocket-Flight-Computer/blob/f483a26bec70381dac257252ec5f7928917b6cee/Block%20Diagram%20(2).png)
+![Schematic Block Diagram](https://github.com/Tsiompanis/Rocket-Flight-Computer/blob/f483a26bec70381dac257252ec5f7928917b6cee/Block%20Diagram%20(2).png)
+---
+![PCB Stack-Up image](https://github.com/Tsiompanis/Rocket-Flight-Computer/blob/aa84106bc6775b6d3cdd96770ebac583741c811d/Stack%20Up.png)
